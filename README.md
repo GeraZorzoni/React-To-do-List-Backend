@@ -2,19 +2,20 @@
 
 The API is an application to manage tasks. It is built with Node.js, Express, and PostgreSQL..
 
-## Requisitos
+## Prerequisites
 
-`Prerequisites
+`
 Node.js v14 or higher
 PostgreSQL installed and running locally.`
 
 ## Installation
 
 ```
-### 1. Clone the repository
+### 1. Clone repository
 
-`bash
-git clone :`
+`
+git clone
+https://github.com/GeraZorzoni/React-To-do-List-Backend.git`
 
 ### 2. Install the dependencies:
 
