@@ -27,7 +27,7 @@ https://github.com/GeraZorzoni/React-To-do-List-Backend.git`
 
 DB_USER=postgres
 DB_HOST=localhost
-DB_NAME=your_database_name
+DB_NAME=postgres
 DB_PASSWORD=your_password
 DB_PORT=5432
 PORT=3001
